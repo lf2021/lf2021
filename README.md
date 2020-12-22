@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 2020.9 我的秋招之路结束，自我总结了前端面试刷题过程中的经验。
 
 - 知识点
-|浏览器|数据结构与算法|HTML|CSS|JavaScript|Vue|Git
+
+|浏览器|数据结构与算法|HTML|CSS|JavaScript|Vue|Git|
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |[浏览器](https://github.com/lf2021/Front-End-Interview/blob/master/01.浏览器/浏览器.md)|[数据结构与算法](https://github.com/lf2021/Front-End-Interview/blob/master/02.数据结构与算法/数据结构与算法.md)|[HTML](https://github.com/lf2021/Front-End-Interview/blob/master/03.HTML/html.md)|[CSS](./04.CSS/css.md)|[JavaScript](https://github.com/lf2021/Front-End-Interview/blob/master/05.JavaScript/js.md)|[Vue](https://github.com/lf2021/Front-End-Interview/blob/master/06.Vue/vue.md)|[Git](https://github.com/lf2021/Front-End-Interview/blob/master/10.git常用指令/git常用指令.md)|
 
