@@ -1,4 +1,4 @@
-### Hi there 👋
+### FE engineer
 
 <!--
 **lf2021/lf2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- [x] Are you ready ？
+
+```code
+while (true) {
+    eat()
+    sleep()
+    code()
+    repeat()
+}
+```
