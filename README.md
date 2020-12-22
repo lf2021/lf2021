@@ -1,21 +1,32 @@
-### FE engineer
+### My Introduction
 
 <!--
 **lf2021/lf2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-- [x] Are you ready ？
+2020.9 我的秋招之路结束，自我总结了前端面试刷题过程中的经验。
+
+#### 知识点
+|浏览器|数据结构与算法|HTML|CSS|JavaScript|Vue|Git
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|[浏览器](https://github.com/lf2021/Front-End-Interview/01.浏览器/浏览器.md)|[数据结构与算法](https://github.com/lf2021/Front-End-Interview/02.数据结构与算法/数据结构与算法.md)|[HTML](https://github.com/lf2021/Front-End-Interview/03.HTML/html.md)|[CSS](./04.CSS/css.md)|[JavaScript](https://github.com/lf2021/Front-End-Interview/05.JavaScript/js.md)|[Vue](https://github.com/lf2021/Front-End-Interview/06.Vue/vue.md)|[Git](https://github.com/lf2021/Front-End-Interview/10.git常用指令/git常用指令.md)
+
+#### 面试高频算法
+
+|牛客剑指offer|leetcode刷题思路|企业笔试题|面试高频手撕代码题|
+|---|---|---|---|
+|[牛客剑指offer](https://github.com/lf2021/Front-End-Interview/07.算法刷题/牛客网%20-%20剑指offer.md)|[leetcode刷题思路](https://github.com/lf2021/Front-End-Interview/07.算法刷题/leetcode思路.md)|[企业笔试题](https://github.com/lf2021/Front-End-Interview/07.算法刷题/牛客网%20-%20企业笔试题.md)|[面试高频手撕代码题](https://github.com/lf2021/Front-End-Interview/08.面试高频手撕代码题/面试高频手撕代码题.md)|
+
+#### 面试复盘
+
+|我的春招|我的秋招|
+|:---------:|:---------:|
+|[春招面试复盘](https://github.com/lf2021/Front-End-Interview/09.面试复盘/Lee/春招面试复盘.md)|[秋招面试复盘](https://github.com/lf2021/Front-End-Interview/09.面试复盘/Lee/秋招面试复盘.md)|
+
+### 人生格言
 
 ```js
 while (true) {
