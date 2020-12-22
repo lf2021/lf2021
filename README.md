@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - [x] Are you ready ？
 
-```code
+```js
 while (true) {
     eat()
     sleep()
