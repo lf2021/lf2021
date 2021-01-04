@@ -1,12 +1,5 @@
 ### My Introduction
 
-<!--
-**lf2021/lf2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
-
 2020.9 我的秋招之路结束，自我总结了前端面试刷题过程中的经验。
 
 |浏览器|数据结构与算法|HTML|CSS|JavaScript|Vue|Git|面试高频算法|剑指offer|leetcode刷题思路|企业笔试题|我的春招|我的秋招|
@@ -15,11 +8,4 @@ Here are some ideas to get you started:
 
 > 码农精神，一起交流。
 
-```js
-while (true) {
-    eat()
-    sleep()
-    code()
-    repeat()
-}
-```
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lf2021&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
