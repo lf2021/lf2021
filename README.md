@@ -8,4 +8,4 @@
 
 > 码农精神，一起交流。
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lf2021&show_icons=true&theme=blueberry&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lee's github stats](https://github-readme-stats.vercel.app/api?username=lf2021&show_icons=true&theme=blueberry&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
